@@ -1,5 +1,10 @@
 .jumbotron{
     padding-top: 2rem;
-    background-color: rgb(172, 175, 176);
+    background-color: #acafb0;
+}
+
+#navbar:hover {
+    background-color: #acafb0a2;
+    border-radius: 5px;
 }
  
